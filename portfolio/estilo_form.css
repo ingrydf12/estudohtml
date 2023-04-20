@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:beige;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+fieldset{
+    background-color:cadetblue;
+}
+
+.formulario input.btn_submit {
+	background-color: #B9DFFF;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
+
+.formulario input.btn_submit {
+	background-color: #016ABC;
+	color: #fff;
+	position: absolute;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	text-shadow: none;
+}
